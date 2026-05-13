@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.cool {
+    color: white;
+    background-color: black;
+}
+
+.cooler {
+    background-color: #e6e48d
+}
