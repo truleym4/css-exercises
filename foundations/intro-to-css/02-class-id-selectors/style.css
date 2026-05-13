@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.paragraph {
+    background-color: rgb(255, 164, 247);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#div1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
